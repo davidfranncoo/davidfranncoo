@@ -2,7 +2,7 @@
 
 🚀Soy Full Stack Web Developer en Soy Henry y estudiante de Ingeniería Eléctrica en la Universidad Nacional del Nordeste (Argentina)..
 
-👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, Node.js, Express, React.js, Redux, SQL y Sequelize. Aplicando metodologías ágiles y haciendo uso de herramientas como Trello, Figma, Photoshop. 
+👨‍💻 Tengo experiencia trabajando con HTML, CSS, JavaScript, Node.js, Express, React.js, Redux, SQL y Sequelize. Aplicando metodologías ágiles y haciendo uso de herramientas como Trello, Figma, Photoshop. 
 
 🏆 Aspiro a ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
 
